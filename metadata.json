@@ -1,0 +1,6 @@
+{
+  "name": "Remix: Remix: MABEC AI Matcher",
+  "description": "Système d\u0027appariement intelligent entre descriptions fournisseurs et codes MABEC standardisés via l\u0027IA Gemini.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
